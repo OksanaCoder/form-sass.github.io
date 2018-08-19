@@ -1,0 +1,24 @@
+{
+  "name": "form-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OksanaCoder/form-sass.github.io.git"
+  },
+  "author": "Ksena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OksanaCoder/form-sass.github.io/issues"
+  },
+  "homepage": "https://github.com/OksanaCoder/form-sass.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1"
+  }
+}
